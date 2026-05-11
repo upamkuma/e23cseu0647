@@ -1,0 +1,154 @@
+[2026-05-11T07:47:52.196Z] [INFO] [backend/controller] Vehicle Maintenance Scheduler started
+[2026-05-11T07:47:52.200Z] [INFO] [backend/controller] Found 5 depots and 33 tasks
+[2026-05-11T07:47:52.200Z] [INFO] [backend/domain] Processing Depot 1 with budget 60 hours
+[2026-05-11T07:47:52.200Z] [INFO] [backend/domain] Depot 1 | Max Impact: 127 | Selected: 18 tasks
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   24247c2a-f582-4c1c-bd97-6263754d21b9 | 1h | impact: 8
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   60b6f32d-abd7-4653-b625-adafb21c1cdf | 2h | impact: 4
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   f2e48ff1-4bfe-428f-be25-7cec3214a5cf | 6h | impact: 7
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   be6f1d24-baac-4e59-82c0-e8e86ebd3322 | 5h | impact: 8
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   2453b834-52af-46b5-9307-0ca1b0703118 | 3h | impact: 9
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   1a2f1e4d-34d2-41ce-93f5-b7d348bd63f1 | 4h | impact: 8
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   fe2a4a98-1a59-4c2d-a88a-2b315bc4ca7d | 5h | impact: 10
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   c149aa73-4cc1-41e6-b5bc-07bf3089c802 | 4h | impact: 7
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   e06747ef-70e6-4dc3-8fba-73174e60b035 | 6h | impact: 9
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   337f0045-4f55-4eff-a12c-ed1b0190afe5 | 6h | impact: 7
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   0543271b-be0c-451e-945a-708ff841e978 | 1h | impact: 10
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   0984f3b9-534c-4bb4-bae9-e601b397538c | 1h | impact: 6
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   3be623d8-61d7-409f-ab09-5a78fd3686d3 | 1h | impact: 5
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   a7131c8e-c63f-432d-a964-36243150b1d3 | 4h | impact: 8
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   2bd660e7-f700-491c-abe8-98154453bc7b | 5h | impact: 8
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   4a853cdb-67c5-4951-b66c-27e09e52fc55 | 3h | impact: 6
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   e704f5ad-3ee9-4bde-ada0-a1dae4f44043 | 1h | impact: 3
+[2026-05-11T07:47:52.200Z] [DEBUG] [backend/domain]   9cbb2cf2-484e-4c80-b2ed-6f92c74ed261 | 2h | impact: 4
+[2026-05-11T07:47:52.200Z] [INFO] [backend/domain] Depot 1 | Hours used: 60 / 60
+[2026-05-11T07:47:52.200Z] [INFO] [backend/domain] Processing Depot 2 with budget 135 hours
+[2026-05-11T07:47:52.201Z] [INFO] [backend/domain] Depot 2 | Max Impact: 183 | Selected: 29 tasks
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   24247c2a-f582-4c1c-bd97-6263754d21b9 | 1h | impact: 8
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   4eb79737-2fca-4cae-beda-d9cdcc7ee917 | 8h | impact: 10
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   c6ac6330-23f5-4ad5-8a32-f9ab5d7b9b9b | 6h | impact: 4
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   a38ab8d9-8666-494f-8907-86f008a2e103 | 7h | impact: 3
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   d8c83112-5bea-4c02-8211-4d761412e968 | 5h | impact: 2
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   60b6f32d-abd7-4653-b625-adafb21c1cdf | 2h | impact: 4
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   f2e48ff1-4bfe-428f-be25-7cec3214a5cf | 6h | impact: 7
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   86449124-4385-4883-92c7-da857091df44 | 5h | impact: 3
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   63d1ab3c-b0a0-489c-ac42-d696398011ca | 6h | impact: 6
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   edc90d14-82d0-433d-982f-8aee0ef1fbdc | 5h | impact: 3
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   be6f1d24-baac-4e59-82c0-e8e86ebd3322 | 5h | impact: 8
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   2453b834-52af-46b5-9307-0ca1b0703118 | 3h | impact: 9
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   1a2f1e4d-34d2-41ce-93f5-b7d348bd63f1 | 4h | impact: 8
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   fe2a4a98-1a59-4c2d-a88a-2b315bc4ca7d | 5h | impact: 10
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   c149aa73-4cc1-41e6-b5bc-07bf3089c802 | 4h | impact: 7
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   e06747ef-70e6-4dc3-8fba-73174e60b035 | 6h | impact: 9
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   1ff05df1-5a84-4e81-a0e3-ca7480c2f6aa | 8h | impact: 5
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   337f0045-4f55-4eff-a12c-ed1b0190afe5 | 6h | impact: 7
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   0543271b-be0c-451e-945a-708ff841e978 | 1h | impact: 10
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   0ff8b25e-a5ab-45b5-b75f-8e2ea2fbe5bc | 8h | impact: 7
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   0984f3b9-534c-4bb4-bae9-e601b397538c | 1h | impact: 6
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   3be623d8-61d7-409f-ab09-5a78fd3686d3 | 1h | impact: 5
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   cdbd852f-ebd9-4daf-a633-4f9bf3ecc7d6 | 8h | impact: 10
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   a7131c8e-c63f-432d-a964-36243150b1d3 | 4h | impact: 8
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   2bd660e7-f700-491c-abe8-98154453bc7b | 5h | impact: 8
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   d75739d4-3d78-4e90-abca-fe54cc346e75 | 8h | impact: 3
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   4a853cdb-67c5-4951-b66c-27e09e52fc55 | 3h | impact: 6
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   e704f5ad-3ee9-4bde-ada0-a1dae4f44043 | 1h | impact: 3
+[2026-05-11T07:47:52.201Z] [DEBUG] [backend/domain]   9cbb2cf2-484e-4c80-b2ed-6f92c74ed261 | 2h | impact: 4
+[2026-05-11T07:47:52.201Z] [INFO] [backend/domain] Depot 2 | Hours used: 134 / 135
+[2026-05-11T07:47:52.201Z] [INFO] [backend/domain] Processing Depot 3 with budget 188 hours
+[2026-05-11T07:47:52.202Z] [INFO] [backend/domain] Depot 3 | Max Impact: 190 | Selected: 33 tasks
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   24247c2a-f582-4c1c-bd97-6263754d21b9 | 1h | impact: 8
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   4eb79737-2fca-4cae-beda-d9cdcc7ee917 | 8h | impact: 10
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   c6ac6330-23f5-4ad5-8a32-f9ab5d7b9b9b | 6h | impact: 4
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   a38ab8d9-8666-494f-8907-86f008a2e103 | 7h | impact: 3
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   d8c83112-5bea-4c02-8211-4d761412e968 | 5h | impact: 2
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   1b945968-c74f-4af8-8754-09fe745192c7 | 8h | impact: 2
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   53396759-1fa4-4091-8836-a20662152be0 | 5h | impact: 2
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   60b6f32d-abd7-4653-b625-adafb21c1cdf | 2h | impact: 4
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   f2e48ff1-4bfe-428f-be25-7cec3214a5cf | 6h | impact: 7
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   86449124-4385-4883-92c7-da857091df44 | 5h | impact: 3
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   63d1ab3c-b0a0-489c-ac42-d696398011ca | 6h | impact: 6
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   578e24f0-c7aa-4d2d-bef1-9b6fe8d3de51 | 8h | impact: 2
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   edc90d14-82d0-433d-982f-8aee0ef1fbdc | 5h | impact: 3
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   be6f1d24-baac-4e59-82c0-e8e86ebd3322 | 5h | impact: 8
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   2453b834-52af-46b5-9307-0ca1b0703118 | 3h | impact: 9
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   1a2f1e4d-34d2-41ce-93f5-b7d348bd63f1 | 4h | impact: 8
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   fe2a4a98-1a59-4c2d-a88a-2b315bc4ca7d | 5h | impact: 10
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   c149aa73-4cc1-41e6-b5bc-07bf3089c802 | 4h | impact: 7
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   e06747ef-70e6-4dc3-8fba-73174e60b035 | 6h | impact: 9
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   3b56c201-2a9f-4448-9dcd-155b6a17057f | 7h | impact: 1
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   1ff05df1-5a84-4e81-a0e3-ca7480c2f6aa | 8h | impact: 5
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   337f0045-4f55-4eff-a12c-ed1b0190afe5 | 6h | impact: 7
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   0543271b-be0c-451e-945a-708ff841e978 | 1h | impact: 10
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   0ff8b25e-a5ab-45b5-b75f-8e2ea2fbe5bc | 8h | impact: 7
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   0984f3b9-534c-4bb4-bae9-e601b397538c | 1h | impact: 6
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   3be623d8-61d7-409f-ab09-5a78fd3686d3 | 1h | impact: 5
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   cdbd852f-ebd9-4daf-a633-4f9bf3ecc7d6 | 8h | impact: 10
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   a7131c8e-c63f-432d-a964-36243150b1d3 | 4h | impact: 8
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   2bd660e7-f700-491c-abe8-98154453bc7b | 5h | impact: 8
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   d75739d4-3d78-4e90-abca-fe54cc346e75 | 8h | impact: 3
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   4a853cdb-67c5-4951-b66c-27e09e52fc55 | 3h | impact: 6
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   e704f5ad-3ee9-4bde-ada0-a1dae4f44043 | 1h | impact: 3
+[2026-05-11T07:47:52.202Z] [DEBUG] [backend/domain]   9cbb2cf2-484e-4c80-b2ed-6f92c74ed261 | 2h | impact: 4
+[2026-05-11T07:47:52.202Z] [INFO] [backend/domain] Depot 3 | Hours used: 162 / 188
+[2026-05-11T07:47:52.202Z] [INFO] [backend/domain] Processing Depot 4 with budget 97 hours
+[2026-05-11T07:47:52.203Z] [INFO] [backend/domain] Depot 4 | Max Impact: 164 | Selected: 23 tasks
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   24247c2a-f582-4c1c-bd97-6263754d21b9 | 1h | impact: 8
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   4eb79737-2fca-4cae-beda-d9cdcc7ee917 | 8h | impact: 10
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   c6ac6330-23f5-4ad5-8a32-f9ab5d7b9b9b | 6h | impact: 4
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   60b6f32d-abd7-4653-b625-adafb21c1cdf | 2h | impact: 4
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   f2e48ff1-4bfe-428f-be25-7cec3214a5cf | 6h | impact: 7
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   63d1ab3c-b0a0-489c-ac42-d696398011ca | 6h | impact: 6
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   be6f1d24-baac-4e59-82c0-e8e86ebd3322 | 5h | impact: 8
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   2453b834-52af-46b5-9307-0ca1b0703118 | 3h | impact: 9
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   1a2f1e4d-34d2-41ce-93f5-b7d348bd63f1 | 4h | impact: 8
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   fe2a4a98-1a59-4c2d-a88a-2b315bc4ca7d | 5h | impact: 10
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   c149aa73-4cc1-41e6-b5bc-07bf3089c802 | 4h | impact: 7
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   e06747ef-70e6-4dc3-8fba-73174e60b035 | 6h | impact: 9
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   337f0045-4f55-4eff-a12c-ed1b0190afe5 | 6h | impact: 7
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   0543271b-be0c-451e-945a-708ff841e978 | 1h | impact: 10
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   0ff8b25e-a5ab-45b5-b75f-8e2ea2fbe5bc | 8h | impact: 7
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   0984f3b9-534c-4bb4-bae9-e601b397538c | 1h | impact: 6
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   3be623d8-61d7-409f-ab09-5a78fd3686d3 | 1h | impact: 5
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   cdbd852f-ebd9-4daf-a633-4f9bf3ecc7d6 | 8h | impact: 10
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   a7131c8e-c63f-432d-a964-36243150b1d3 | 4h | impact: 8
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   2bd660e7-f700-491c-abe8-98154453bc7b | 5h | impact: 8
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   4a853cdb-67c5-4951-b66c-27e09e52fc55 | 3h | impact: 6
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   e704f5ad-3ee9-4bde-ada0-a1dae4f44043 | 1h | impact: 3
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   9cbb2cf2-484e-4c80-b2ed-6f92c74ed261 | 2h | impact: 4
+[2026-05-11T07:47:52.203Z] [INFO] [backend/domain] Depot 4 | Hours used: 96 / 97
+[2026-05-11T07:47:52.203Z] [INFO] [backend/domain] Processing Depot 5 with budget 164 hours
+[2026-05-11T07:47:52.203Z] [INFO] [backend/domain] Depot 5 | Max Impact: 190 | Selected: 33 tasks
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   24247c2a-f582-4c1c-bd97-6263754d21b9 | 1h | impact: 8
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   4eb79737-2fca-4cae-beda-d9cdcc7ee917 | 8h | impact: 10
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   c6ac6330-23f5-4ad5-8a32-f9ab5d7b9b9b | 6h | impact: 4
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   a38ab8d9-8666-494f-8907-86f008a2e103 | 7h | impact: 3
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   d8c83112-5bea-4c02-8211-4d761412e968 | 5h | impact: 2
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   1b945968-c74f-4af8-8754-09fe745192c7 | 8h | impact: 2
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   53396759-1fa4-4091-8836-a20662152be0 | 5h | impact: 2
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   60b6f32d-abd7-4653-b625-adafb21c1cdf | 2h | impact: 4
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   f2e48ff1-4bfe-428f-be25-7cec3214a5cf | 6h | impact: 7
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   86449124-4385-4883-92c7-da857091df44 | 5h | impact: 3
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   63d1ab3c-b0a0-489c-ac42-d696398011ca | 6h | impact: 6
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   578e24f0-c7aa-4d2d-bef1-9b6fe8d3de51 | 8h | impact: 2
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   edc90d14-82d0-433d-982f-8aee0ef1fbdc | 5h | impact: 3
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   be6f1d24-baac-4e59-82c0-e8e86ebd3322 | 5h | impact: 8
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   2453b834-52af-46b5-9307-0ca1b0703118 | 3h | impact: 9
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   1a2f1e4d-34d2-41ce-93f5-b7d348bd63f1 | 4h | impact: 8
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   fe2a4a98-1a59-4c2d-a88a-2b315bc4ca7d | 5h | impact: 10
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   c149aa73-4cc1-41e6-b5bc-07bf3089c802 | 4h | impact: 7
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   e06747ef-70e6-4dc3-8fba-73174e60b035 | 6h | impact: 9
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   3b56c201-2a9f-4448-9dcd-155b6a17057f | 7h | impact: 1
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   1ff05df1-5a84-4e81-a0e3-ca7480c2f6aa | 8h | impact: 5
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   337f0045-4f55-4eff-a12c-ed1b0190afe5 | 6h | impact: 7
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   0543271b-be0c-451e-945a-708ff841e978 | 1h | impact: 10
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   0ff8b25e-a5ab-45b5-b75f-8e2ea2fbe5bc | 8h | impact: 7
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   0984f3b9-534c-4bb4-bae9-e601b397538c | 1h | impact: 6
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   3be623d8-61d7-409f-ab09-5a78fd3686d3 | 1h | impact: 5
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   cdbd852f-ebd9-4daf-a633-4f9bf3ecc7d6 | 8h | impact: 10
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   a7131c8e-c63f-432d-a964-36243150b1d3 | 4h | impact: 8
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   2bd660e7-f700-491c-abe8-98154453bc7b | 5h | impact: 8
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   d75739d4-3d78-4e90-abca-fe54cc346e75 | 8h | impact: 3
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   4a853cdb-67c5-4951-b66c-27e09e52fc55 | 3h | impact: 6
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   e704f5ad-3ee9-4bde-ada0-a1dae4f44043 | 1h | impact: 3
+[2026-05-11T07:47:52.203Z] [DEBUG] [backend/domain]   9cbb2cf2-484e-4c80-b2ed-6f92c74ed261 | 2h | impact: 4
+[2026-05-11T07:47:52.203Z] [INFO] [backend/domain] Depot 5 | Hours used: 162 / 164
+[2026-05-11T07:47:52.203Z] [INFO] [backend/controller] Scheduler finished successfully

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "AffordMed Campus Hiring Evaluation - Backend",
   "scripts": {
-    "scheduler": "node vehicle_maintenance_scheduler/scheduler.js",
+    "scheduler": "node vehicle_scheduling/scheduler.js",
     "priority": "node notification_app_be/priority_inbox.js"
   },
   "dependencies": {

@@ -1,0 +1,34 @@
+[2026-05-11T07:47:52.279Z] [INFO] [backend/controller] Priority Inbox started
+[2026-05-11T07:47:52.280Z] [INFO] [backend/controller] Processing 20 notifications
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Event] cult-fest => 0.6589
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Result] mid-sem => 0.8258
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Result] internal => 0.8281
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Event] tech-fest => 0.6469
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Result] end-sem => 0.8507
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Result] external => 0.8638
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Placement] Amazon.com Inc. hiring => 0.9707
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Result] project-review => 0.8091
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Placement] Amgen Inc. hiring => 0.9469
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Event] tech-fest => 0.6529
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Placement] Amazon.com Inc. hiring => 0.9671
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Result] end-sem => 0.8364
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Placement] Apple Inc. hiring => 0.9755
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Result] external => 0.8376
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Result] project-review => 0.8185
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Placement] Broadcom Inc. hiring => 0.9421
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Event] cult-fest => 0.6373
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Event] traditional-day => 0.6516
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Placement] Alphabet Inc. Class A hiring => 0.9409
+[2026-05-11T07:47:52.281Z] [DEBUG] [backend/domain] Scored: [Result] end-sem => 0.8649
+[2026-05-11T07:47:52.281Z] [INFO] [backend/controller] Extracting top 10 from priority queue
+[2026-05-11T07:47:52.281Z] [INFO] [backend/domain] #1 | Placement | Apple Inc. hiring | score: 0.9755 | 2026-05-11 02:59:19 | 554becdc-a800-4e6c-aceb-a82baa9c0904
+[2026-05-11T07:47:52.281Z] [INFO] [backend/domain] #2 | Placement | Amazon.com Inc. hiring | score: 0.9707 | 2026-05-11 01:00:07 | f1c59e7d-60c5-400b-a233-e33c577eb33a
+[2026-05-11T07:47:52.281Z] [INFO] [backend/domain] #3 | Placement | Amazon.com Inc. hiring | score: 0.9671 | 2026-05-10 23:29:35 | 34104185-e642-4513-bf57-04cd9c194f4c
+[2026-05-11T07:47:52.281Z] [INFO] [backend/domain] #4 | Placement | Amgen Inc. hiring | score: 0.9469 | 2026-05-10 14:59:51 | 8edbbce1-0f13-48b5-8409-014052f51d81
+[2026-05-11T07:47:52.281Z] [INFO] [backend/domain] #5 | Placement | Broadcom Inc. hiring | score: 0.9421 | 2026-05-10 12:58:55 | 66e8ce49-9dc4-4641-93e9-0c0f043b0361
+[2026-05-11T07:47:52.281Z] [INFO] [backend/domain] #6 | Placement | Alphabet Inc. Class A hiring | score: 0.9409 | 2026-05-10 12:28:31 | 904ea8e3-6499-49d4-ac10-6c64bd598c41
+[2026-05-11T07:47:52.281Z] [INFO] [backend/domain] #7 | Result | end-sem | score: 0.8649 | 2026-05-11 06:58:23 | 8ac0cc4e-f89e-4e18-bb23-b2314d8c8f7c
+[2026-05-11T07:47:52.281Z] [INFO] [backend/domain] #8 | Result | external | score: 0.8638 | 2026-05-11 06:30:15 | 200818d7-345a-4608-a3b6-2ece1ae85114
+[2026-05-11T07:47:52.281Z] [INFO] [backend/domain] #9 | Result | end-sem | score: 0.8507 | 2026-05-11 01:00:23 | 3ea2a3f8-3658-468e-843b-2800ae231db1
+[2026-05-11T07:47:52.281Z] [INFO] [backend/domain] #10 | Result | external | score: 0.8376 | 2026-05-10 19:29:11 | b77f2035-4c88-4f51-b60b-874403331f44
+[2026-05-11T07:47:52.281Z] [INFO] [backend/controller] Done. Total notifications processed: 20
